@@ -1,0 +1,277 @@
+Cég UUID:
+Költség- és környezetkímélõ trágyázási szaktanácsadási rendszer
+Licensz:
+TOVÁBB
+ KILÉPÉS 
+Érvényes:
+Cég UUID:
+Felhasználónév:
+Jelszó:
+BELÉPÉS
+ KILÉPÉS 
+Cég UUID:
+Felhasználónév:
+Jelszó:
+Új jelszó:
+Új jelszó újra:
+RÖGZÍT és BELÉP
+ KILÉPÉS 
+Cég UUID:
+Szerepkör:
+Teljes név:
+Születési dátum:
+Felhasználónév:
+Alap jelszó:
+Aktív
+MÓDOSÍT
+RÖGZÍT
+SZAKTANÁCS
+JELENTÉS
+ KILÉPÉS 
+Felhasználónév:
+Idõszak:
+Szaktanácsolt terület lekérdezése:
+JELENTÉS
+ KILÉPÉS 
+ABC sorrend
+Terület szerint csökkenõ sorrend
+ADATBEOLVASÁS
+ADATMENTÉS
+ ÜGYFÉL ADATOK KEZELÉSE 
+HIBAKERESÉS
+ADATPÓTLÁS
+ÖSSZEVONÁS
+SZÁMÍTÁS
+NYOMTATÁS
+ SÚGÓ 
+ KILÉPÉS 
+ÖSSZESÍTÕ
+VÁGÓLAPRÓL 
+Ügyfél:
+Adatok:
+Parcellák:
+Termesztés:
+Szaktanács:
+MÛTRÁGYA   FÉLESÉGEK  ...... MEGOSZTÁS ...... KIJUTTATÁS
+ Adatok beillesztése a vágólapról 
+ Adatok beillesztése a vágólapról 
+ Adatok másolása a vágólapra 
+ Táblázat kiürítése 
+ Táblázat kiürítése 
+ Táblázat kiürítése 
+ kibont 
+ kibont 
+ kibont 
+Parcella:
+Trágyázási szint:
+Szaktanács dátuma:
+Megjegyzés:
+minimum
+környezetkímélõ
+mérlegszemléletû
+maximum
+fenntartó
+feltöltõ
+Minden parcellát
+BEÁLLÍTÁSOK AKTUALIZÁLÁSA
+NYOMTATÁS
+PDF
+ KILÉPÉS 
+Név
+Nyilvántartási szám
+Telephely
+Telefonszám
+E-mail cím
+Név
+MEPAR kód
+Sorszám
+KET
+Terület (ha)
+Termõhely |?|
+Nitrátérzékeny |?|
+AKG program |?|
+Mintavétel dátuma
+Arany-féle kötöttség
+Humusz (%)
+AL-P2O5 (mg/kg)
+AL-K2O (mg/kg)
+CaCO3 (%)
+pH-KCl
+Mg-KCl (mg/kg)
+EDTA-Zn (mg/kg)
+EDTA-Cu (mg/kg)
+EDTA-Mn (mg/kg)
+Betakarítás éve
+Betakarítás évszaka
+Termesztendõ növény  |?|
+Termesztés tervezett hossza (év)
+Növény kora (év)  |?|
+Tervezett fõtermés (t/ha)
+Telepítés éve
+N beltartalom (%) a levélmintában
+P beltartalom (%) a levélmintában
+K beltartalom (%) a levélmintában
+Térállás (m×m)
+Átlagos törzsátmérõ, fák esetében (cm)
+Fûtakarás |?|
+Elõvetemény |?|
+   Betakarítás 09/15 elõtt |?|
+   Fõtermés (t/ha)
+   Melléktermés (t/ha)
+   Melléktermés maradt |?|
+Évelõ pillangós két éve kiszántva
+Ezen évben már kijuttatott N hatóa. (kg/ha)
+Ezen évben már kijuttatott P hatóa. (kg/ha)
+Ezen évben már kijuttatott K hatóa. (kg/ha)
+Istállótrágyázás éve I. (4 éven belül)
+   Minõsége
+   Adagja (t/ha)
+Istállótrágyázás éve II. (4 éven belül)
+   Minõsége
+   Adagja (t/ha)
+Istállótrágyázás éve III. (4 éven belül)
+   Minõsége
+   Adagja (t/ha)
+Istállótrágyázás éve IV. (4 éven belül)
+   Minõsége
+   Adagja (t/ha)
+Hígtrágyázás éve I. (2 éven belül)
+   Minõsége
+   Adagja (m3/ha)
+Hígtrágyázás éve II. (2 éven belül)
+   Minõsége
+   Adagja (m3/ha)
+Zöldtrágya
+   Mennyisége (t/ha)
+Cinktrágyázás éve (5 éven belül)
+   Adagja (kg/ha)
+Meszezés éve (10 éven belül)
+   Adagja (t/ha)
+Elõzõ évben kijuttatott N hatóa. (kg/ha)
+Elõzõ évben kijuttatott P hatóa. (kg/ha)
+Elõzõ évben kijuttatott K hatóa. (kg/ha)
+Minimum/Fenntartó N, kg/ha
+Minimum/Fenntartó P, kg/ha
+Minimum/Fenntartó K, kg/ha
+Minimum Mész, kg/ha
+Minimum/Fenntartó Mg, kg/ha
+Minimum Zn, kg/ha (* lombtr.)
+Minimum Cu, kg/ha
+Minimum Mn, kg/ha
+Környezetkímélõ/Fenntartó N, kg/ha
+Környezetkímélõ/Fenntartó P, kg/ha
+Környezetkímélõ/Fenntartó K, kg/ha
+Környezetkímélõ Mész, kg/ha
+Környezetkímélõ/Fenntartó Mg, kg/ha
+Környezetkímélõ Zn, kg/ha
+Környezetkímélõ Cu, kg/ha
+Környezetkímélõ Mn, kg/ha
+Mérlegszemléletû/Feltöltõ N, kg/ha
+Mérlegszemléletû/Feltöltõ P, kg/ha
+Mérlegszemléletû/Feltöltõ K, kg/ha
+Mérlegszemléletû Mész, kg/ha
+Mérlegszemléletû/Feltöltõ Mg, kg/ha
+Mérlegszemléletû Zn, kg/ha
+Mérlegszemléletû Cu, kg/ha
+Mérlegszemléletû Mn, kg/ha
+Maximum/Feltöltõ N, kg/ha
+Maximum/Feltöltõ P, kg/ha
+Maximum/Feltöltõ K, kg/ha
+Maximum Mész, kg/ha
+Maximum/Feltöltõ Mg, kg/ha
+Maximum Zn, kg/ha
+Maximum Cu, kg/ha
+Maximum Mn, kg/ha
+N ellátottság
+P ellátottság
+K ellátottság
+Mg ellátottság
+Zn ellátottság
+Cu ellátottság
+Mn ellátottság
+Hasznosítási kód
+N szükséglet (minimum), kg/ha
+P szükséglet (minimum), kg/ha
+K szükséglet (minimum), kg/ha
+N szükséglet (környezetkímélõ), kg/ha
+P szükséglet (környezetkímélõ), kg/ha
+K szükséglet (környezetkímélõ), kg/ha
+N szükséglet (mérlegszemléletû), kg/ha
+P szükséglet (mérlegszemléletû), kg/ha
+K szükséglet (mérlegszemléletû), kg/ha
+N szükséglet (maximum), kg/ha
+P szükséglet (maximum), kg/ha
+K szükséglet (maximum), kg/ha
+Talaj fizikai féleség
+Talaj mészállapot
+Talaj kémhatás
+I. istállótrágya N/P/K ha., kg/ha
+II. istállótrágya N/P/K ha., kg/ha
+III. istállótrágya N/P/K ha., kg/ha
+IV. istállótrágya N/P/K ha., kg/ha
+I. hígtrágya N/P/K ha., kg/ha
+II. hígtrágya N/P/K ha., kg/ha
++N a szármaradvány lebontásához, kg/ha
+Parcella:
+Trágyázási szint:
+minimum
+környezetkímélõ
+mérlegszemléletû
+maximum
+fenntartó
+feltöltõ
+NYOMTATÁS
+ KILÉPÉS 
+ MEGOSZTÁS 
+KIVÁLASZT
+ELREJT
+Mûtrágyaféleségek
+ Kijuttatás | szövegsablon:
+Igény (kg/ha)
+Mérleg (kg/ha)
+Összes-N
+Összes-P
+Összes-K
+Õsz-N
+Õsz-P
+Õsz-K
+Tavasz-N
+Tavasz-P
+Tavasz-K
+Évszak
+Típus
+Összetétel
+Megnevezés
+Mennyiség, kg/ha
+ TÁBLÁZAT TÖRLÉSE 
+ SZÖVEGDOBOZ TÖRLÉSE
+Év/Évszak:
+Ügyfél neve:
+Alias:
+Nyilvántartási szám:
+Telefonszám:
+E-mail cím:
+Adószám:
+Ország:
+Város:
+Irányító szám:
+Közterület:
+Házszám:
+Aktív
+RÖGZÍT
+ BEZÁR 
+ ADATOK ELÕKÉSZÍTÉSE ÉS KÜLDÉSE...
+ ADATOK SZERVEROLDALI FELDOLGOZÁSA...
+ ADATOK HELYI FELDOLGOZÁSA...
+ A SZÁMÍTÁSOK ELKÉSZÜLTEK! 
+ PIROS CELLA: hiányzó adat; SÁRGA CELLA: irreális adat; KÉK CELLA: rossz karakter; ZÖLD CELLA: nincs az adatbázisban
+ NINCS HIBA AZ ADATOKBAN!
+ KEZDJE EL BEGÉPELNI A NÖVÉNY NEVÉT! PL. búza
+ TELEPÍTÉS ELÕTT: 0
+ 2: MINDEN SOR FÛVEL BORÍTOTT; 1: MINDEN 2. SOR FÛVEL BORÍTOTT; 0: FÛBORÍTÁS NÉLKÜLI SOROK
+ 1: 09/15 ELÕTT; 0: 09/15 UTÁN
+ 1: MARADT; 0: LEKERÜLT
+ 1: MEZÕSÉGI TALAJOK; 2: ERDÕ TALAJOK; 3: KÖTÖTT RÉTI TALAJOK; 4: LAZA ÉS HOMOKTALAJOK; 5: SZIKES TALAJOK; 6: SEKÉLY ERODÁLT TALAJOK
+ 0: NEM; 1: IGEN;
+ 0: NINCS; 1: TECS1 | Horizontális szántó; 2: TECS2 | Horizontális gyep; 3: TECS3 | Horizontális ültetvény;... ld. SÚGÓ
+ BEOLVASOTT REKORDOK SZÁMA: 
